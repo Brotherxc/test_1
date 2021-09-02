@@ -1,6 +1,8 @@
 ## hello-world!
 Sccess!
-test!!!
+我是CJ的爸爸，CJ永远是我的女儿
+如果你看到此界面，说明我的更改已经成功!
+
 
 You can use the [editor on GitHub](https://github.com/Brotherxc/test_1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
